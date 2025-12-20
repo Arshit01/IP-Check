@@ -250,7 +250,7 @@ export class ReputationCard {
         // Apply Logic Dimensions
         card.style.height = 'auto';
         card.style.minHeight = '150px';
-        card.style.width = '440px';
+        card.style.width = '450px';
 
         // Capture initial auto width logic
         const autoRect = card.getBoundingClientRect();
